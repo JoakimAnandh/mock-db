@@ -9,10 +9,15 @@
     "users": [
       {
         "id": 1,
-        "name": "Anandh Antony",
         "username": "Anandh",
+        "FirstName": "Anandh",
+        "LastName": "Antony",
+        "DOB": "24/01/1982",
         "password": "Password@123",
-        "email": "Sincere@april.biz",
+        "email": "Anandh.Antony@april.biz",
+        "email2": "Anandh.Antony@april.biz",
+        "Nationality":"Indian",
+        "Gentder":"Male",
         "address": {
           "street": "Kulas Light",
           "suite": "Apt. 556",
@@ -33,10 +38,15 @@
       },
       {
         "id": 2,
-        "name": "Vijay Kumar",
         "username": "VijayKumar",
+        "FirstName": "Vijay",
+        "LastName": "Kumar",
+        "DOB": "24/01/1982",
         "password": "Password@123",
-        "email": "Shanna@melissa.tv",
+        "email": "VijayKumar@april.biz",
+        "email2": "VijayKumar@april.biz",
+        "Nationality":"Indian",
+        "Gentder":"Male",
         "address": {
           "street": "Victor Plains",
           "suite": "Suite 879",
@@ -57,10 +67,15 @@
       },
       {
         "id": 3,
-        "name": "Ashok Mithiran",
         "username": "Ashok",
+        "FirstName": "Ashok",
+        "LastName": "Mithiran",
+        "DOB": "24/01/1982",
         "password": "Password@123",
-        "email": "Nathan@yesenia.net",
+        "email": "AshokMithiran@april.biz",
+        "email2": "VijayKumar@april.biz",
+        "Nationality":"Indian",
+        "Gentder":"Male",
         "address": {
           "street": "Douglas Extension",
           "suite": "Suite 847",
