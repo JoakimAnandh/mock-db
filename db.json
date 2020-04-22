@@ -8,177 +8,36 @@
     "profile": { "name": "typicode" },
     "users": [
       {
-        "id": 1,
-        "username": "Anandh@gmail.com",
-        "FirstName": "Anandh",
-        "LastName": "Antony",
-        "DOB": "24/01/1982",
+        "id": "1",
+        "secretPhrase": "test",
         "password": "Password@123",
-        "email": "Anandh.Antony@april.biz",
-        "email2": "Anandh.Antony@april.biz",
-        "Nationality":"Indian",
-        "Gentder":"Male",
-        "address": {
-          "street": "Kulas Light",
-          "suite": "Apt. 556",
-          "city": "Gwenborough",
-          "zipcode": "92998-3874",
-          "geo": {
-            "lat": "-37.3159",
-            "lng": "81.1496"
-          }
-        },
-        "phone": "1-770-736-8031 x56442",
-        "website": "hildegard.org",
-        "company": {
-          "name": "Romaguera-Crona",
-          "catchPhrase": "Multi-layered client-server neural-net",
-          "bs": "harness real-time e-markets"
-        }
+        "mobile": "",
+        "emails": ["Anandh@gmail.com"],
+        "userStatus": "active"
       },
       {
-        "id": 2,
-        "username": "1234567891",
-        "FirstName": "Anandh",
-        "LastName": "Antony",
-        "DOB": "24/01/1982",
+        "id": "2",
+        "secretPhrase": "test",
         "password": "Password@123",
-        "email": "Anandh.Antony@april.biz",
-        "email2": "Anandh.Antony@april.biz",
-        "Nationality":"Indian",
-        "Gentder":"Male",
-        "address": {
-          "street": "Kulas Light",
-          "suite": "Apt. 556",
-          "city": "Gwenborough",
-          "zipcode": "92998-3874",
-          "geo": {
-            "lat": "-37.3159",
-            "lng": "81.1496"
-          }
-        },
-        "phone": "1-770-736-8031 x56442",
-        "website": "hildegard.org",
-        "company": {
-          "name": "Romaguera-Crona",
-          "catchPhrase": "Multi-layered client-server neural-net",
-          "bs": "harness real-time e-markets"
-        }
+        "mobile": "1234567891",
+        "emails": ["Anandh@gmail.com"],
+        "userStatus": "active"
       },
       {
-        "id": 3,
-        "username": "Vijay@gmail.com",
-        "FirstName": "Vijay",
-        "LastName": "Kumar",
-        "DOB": "24/01/1982",
+        "id": "3",
+        "secretPhrase": "test",
         "password": "Password@123",
-        "email": "VijayKumar@april.biz",
-        "email2": "VijayKumar@april.biz",
-        "Nationality":"Indian",
-        "Gentder":"Male",
-        "address": {
-          "street": "Victor Plains",
-          "suite": "Suite 879",
-          "city": "Wisokyburgh",
-          "zipcode": "90566-7771",
-          "geo": {
-            "lat": "-43.9509",
-            "lng": "-34.4618"
-          }
-        },
-        "phone": "010-692-6593 x09125",
-        "website": "anastasia.net",
-        "company": {
-          "name": "Deckow-Crist",
-          "catchPhrase": "Proactive didactic contingency",
-          "bs": "synergize scalable supply-chains"
-        }
+        "mobile": "",
+        "emails": ["Vijay@gmail.com"],
+        "userStatus": "active"
       },
       {
-        "id": 4,
-        "username": "1234567892",
-        "FirstName": "Vijay",
-        "LastName": "Kumar",
-        "DOB": "24/01/1982",
+        "id": "4",
+        "secretPhrase": "test",
         "password": "Password@123",
-        "email": "VijayKumar@april.biz",
-        "email2": "VijayKumar@april.biz",
-        "Nationality":"Indian",
-        "Gentder":"Male",
-        "address": {
-          "street": "Victor Plains",
-          "suite": "Suite 879",
-          "city": "Wisokyburgh",
-          "zipcode": "90566-7771",
-          "geo": {
-            "lat": "-43.9509",
-            "lng": "-34.4618"
-          }
-        },
-        "phone": "010-692-6593 x09125",
-        "website": "anastasia.net",
-        "company": {
-          "name": "Deckow-Crist",
-          "catchPhrase": "Proactive didactic contingency",
-          "bs": "synergize scalable supply-chains"
-        }
-      },
-      {
-        "id": 5,
-        "username": "Ashok@gmail.com",
-        "FirstName": "Ashok",
-        "LastName": "Mithiran",
-        "DOB": "24/01/1982",
-        "password": "Password@123",
-        "email": "AshokMithiran@april.biz",
-        "email2": "VijayKumar@april.biz",
-        "Nationality":"Indian",
-        "Gentder":"Male",
-        "address": {
-          "street": "Douglas Extension",
-          "suite": "Suite 847",
-          "city": "McKenziehaven",
-          "zipcode": "59590-4157",
-          "geo": {
-            "lat": "-68.6102",
-            "lng": "-47.0653"
-          }
-        },
-        "phone": "1-463-123-4447",
-        "website": "ramiro.info",
-        "company": {
-          "name": "Romaguera-Jacobson",
-          "catchPhrase": "Face to face bifurcated interface",
-          "bs": "e-enable strategic applications"
-        }
-      },{
-        "id": 6,
-        "username": "1234567893",
-        "FirstName": "Ashok",
-        "LastName": "Mithiran",
-        "DOB": "24/01/1982",
-        "password": "Password@123",
-        "email": "AshokMithiran@april.biz",
-        "email2": "VijayKumar@april.biz",
-        "Nationality":"Indian",
-        "Gentder":"Male",
-        "address": {
-          "street": "Douglas Extension",
-          "suite": "Suite 847",
-          "city": "McKenziehaven",
-          "zipcode": "59590-4157",
-          "geo": {
-            "lat": "-68.6102",
-            "lng": "-47.0653"
-          }
-        },
-        "phone": "1-463-123-4447",
-        "website": "ramiro.info",
-        "company": {
-          "name": "Romaguera-Jacobson",
-          "catchPhrase": "Face to face bifurcated interface",
-          "bs": "e-enable strategic applications"
-        }
+        "mobile": "1234567892",
+        "emails": [],
+        "userStatus": "active"
       }
     ]
  }
