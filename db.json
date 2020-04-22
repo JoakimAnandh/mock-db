@@ -12,7 +12,7 @@
         "secretPhrase": "test",
         "password": "Password@123",
         "mobile": "",
-        "emails": ["Anandh@gmail.com"],
+        "emails": "Anandh@gmail.com",
         "userStatus": "active"
       },
       {
@@ -20,7 +20,7 @@
         "secretPhrase": "test",
         "password": "Password@123",
         "mobile": "1234567891",
-        "emails": ["Anandh@gmail.com"],
+        "emails": "",
         "userStatus": "active"
       },
       {
@@ -28,7 +28,7 @@
         "secretPhrase": "test",
         "password": "Password@123",
         "mobile": "",
-        "emails": ["Vijay@gmail.com"],
+        "emails": "Vijay@gmail.com",
         "userStatus": "active"
       },
       {
@@ -36,7 +36,7 @@
         "secretPhrase": "test",
         "password": "Password@123",
         "mobile": "1234567892",
-        "emails": [],
+        "emails": "",
         "userStatus": "active"
       }
     ]
